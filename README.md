@@ -1,5 +1,5 @@
 # the-24-game
-### Interface
+## Interface
 ![demo](https://github.com/candace-sun/the-24-game/blob/main/24game.PNG)
 
 ## Description
